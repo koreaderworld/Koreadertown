@@ -1,0 +1,10 @@
+{
+  "name": "koreaderworld",
+  "version": "1.0.0",
+  "description": "Koreaderworld 공원 마을 메타버스 — 근접 음성 채팅이 되는 독립 실행 버전",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
